@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SpuderMAN</h1>
+<h1 align="center">Hi 👋, I'm DamianDev</h1>
 <h3 align="center">A Full Stack Developer Who Loves Creating Mods</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **C#** and **JS**
+- 🌱 I’m currently learning **C#** and **Py**
 - 🧩 Passionate about modding and game server customization
 - 🚀 Always looking to improve and try something new
 
